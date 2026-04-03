@@ -31,7 +31,7 @@ Each file is named: `problem-name.py` with problem link + approach in comments.
  
 | Topic | Solved |
 |-------|--------|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 1 |
 | Linked List | 0 |
 | Trees | 0 |
